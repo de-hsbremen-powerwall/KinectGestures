@@ -1,6 +1,8 @@
 KinectGestures
 ==============
 
+KinectGestures stellt ein Interface zum Tracken von Fingern bereit. Für das Tracken wird eine Kinect und entsprechende WrapperSoftware benötigt.
+
 Installation
 ------------
 1. Openni 2 installieren [Download](http://www.openni.org/openni-sdk/ "Download Openni SDK")
